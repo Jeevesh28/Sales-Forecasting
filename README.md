@@ -1,4 +1,4 @@
-# Sales Forecating (Inter Hall Data Analytics 2021-22) 📈
+# Sales Forecasting (Inter Hall Data Analytics 2021-22) 📈
 
 ## Problem Statement 🧠
 The task is to improve forecasting using advanced time series and machine learning algorithms. Sales forecast for the month of June-2021 has to be made using the train data available from the time period of April-18 to May-21. There are a total of four features in the dataset, and they are as follows:
